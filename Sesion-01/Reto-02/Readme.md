@@ -24,11 +24,11 @@ Usando la base de datos `tienda`, escribe consultas que permitan responder las s
 <br/>
 *Respuesta* <br/>
 1- Norrie y Maxy <br/>
-2-<br/> ![imagen](https://user-images.githubusercontent.com/60225087/117911622-ba4db400-b2a3-11eb-8812-d141a188b2ec.png)
+2- ![imagen](https://user-images.githubusercontent.com/60225087/117911622-ba4db400-b2a3-11eb-8812-d141a188b2ec.png)
 <br/>
-3-<br/> ![imagen](https://user-images.githubusercontent.com/60225087/117906973-8ec6cb80-b29b-11eb-9223-adb997e3d041.png)
+3- ![imagen](https://user-images.githubusercontent.com/60225087/117906973-8ec6cb80-b29b-11eb-9223-adb997e3d041.png)
 <br/>
-4-<br/> ![imagen](https://user-images.githubusercontent.com/60225087/117907014-9f774180-b29b-11eb-9c65-7ef21cc960f0.png)
+4- ![imagen](https://user-images.githubusercontent.com/60225087/117907014-9f774180-b29b-11eb-9c65-7ef21cc960f0.png)
 <br/>
 
 *Código*
