@@ -25,6 +25,13 @@ Usando la base de datos `tienda`, muestra la descripción de las tablas `articul
 
 <br/>
 
+*Códico*
+USE tienda; describe articulo;
+USE tienda; describe puesto;
+USE tienda; describe venta;
+
+<br/>
+
 [`Anterior`](../Ejemplo-02/Readme.md) | [`Siguiente`](../Readme.md)
 
 </div>
