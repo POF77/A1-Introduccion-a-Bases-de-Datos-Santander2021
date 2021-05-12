@@ -25,6 +25,8 @@ LIMIT 5;<br/>
 ![imagen](https://user-images.githubusercontent.com/60225087/117907749-ed407980-b29c-11eb-8b16-fb0f954f1f9e.png)
 
 <br/>
+![imagen](https://user-images.githubusercontent.com/60225087/117911622-ba4db400-b2a3-11eb-8812-d141a188b2ec.png)
+<br/>
 ### Resultados Reto 2
 <br/>
 1. Norrie y Maxy
