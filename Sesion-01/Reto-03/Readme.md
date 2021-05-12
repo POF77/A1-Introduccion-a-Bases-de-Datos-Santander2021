@@ -24,6 +24,8 @@ LIMIT 5;<br/>
 
 ![imagen](https://user-images.githubusercontent.com/60225087/117907749-ed407980-b29c-11eb-8b16-fb0f954f1f9e.png)
 
+![imagen](https://user-images.githubusercontent.com/60225087/117911825-0dc00200-b2a4-11eb-9b07-70e693dcc726.png)
+
 <br/>
 
 [`Anterior`](../Ejemplo-04/Readme.md) | [`Siguiente`](../Readme.md)
