@@ -26,8 +26,11 @@ Usando la base de datos `tienda`, muestra la descripción de las tablas `articul
 <br/>
 
 *Códico*
+<br/>
 USE tienda; describe articulo;
+<br/>
 USE tienda; describe puesto;
+<br/>
 USE tienda; describe venta;
 
 <br/>
