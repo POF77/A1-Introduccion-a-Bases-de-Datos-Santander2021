@@ -26,6 +26,10 @@ LIMIT 5;<br/>
 
 <br/>
 
+![imagen](https://user-images.githubusercontent.com/60225087/117911622-ba4db400-b2a3-11eb-8812-d141a188b2ec.png)
+
+<br/>
+
 [`Anterior`](../Ejemplo-04/Readme.md) | [`Siguiente`](../Readme.md)
 
 </div>
