@@ -23,10 +23,10 @@ Usando la base de datos `tienda`, escribe consultas que permitan responder las s
 
 <br/>
 *Respuesta* <br/>
-1- Norrie y Maxy
-2- ![imagen](https://user-images.githubusercontent.com/60225087/117906939-7a82ce80-b29b-11eb-84bd-e43e1badb36e.png)
-3- ![imagen](https://user-images.githubusercontent.com/60225087/117906973-8ec6cb80-b29b-11eb-9223-adb997e3d041.png)
-4- ![imagen](https://user-images.githubusercontent.com/60225087/117907014-9f774180-b29b-11eb-9c65-7ef21cc960f0.png)
+1- Norrie y Maxy <br/>
+2- ![imagen](https://user-images.githubusercontent.com/60225087/117906939-7a82ce80-b29b-11eb-84bd-e43e1badb36e.png) <br/>
+3- ![imagen](https://user-images.githubusercontent.com/60225087/117906973-8ec6cb80-b29b-11eb-9223-adb997e3d041.png) <br/>
+4- ![imagen](https://user-images.githubusercontent.com/60225087/117907014-9f774180-b29b-11eb-9c65-7ef21cc960f0.png) <br/>
 
 <br/>
 
