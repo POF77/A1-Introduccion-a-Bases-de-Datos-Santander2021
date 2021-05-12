@@ -31,10 +31,6 @@ Usando la base de datos `tienda`, escribe consultas que permitan responder las s
 4-<br/> ![imagen](https://user-images.githubusercontent.com/60225087/117907014-9f774180-b29b-11eb-9c65-7ef21cc960f0.png)
 <br/>
 
-<br/>
-![imagen](https://user-images.githubusercontent.com/60225087/117911756-eec17000-b2a3-11eb-9f32-ab07816bacbf.png)
-
-
 *Código*
 SELECT *<br/>
 FROM empleado<br/>
