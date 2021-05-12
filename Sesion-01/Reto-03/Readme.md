@@ -26,10 +26,6 @@ LIMIT 5;<br/>
 
 <br/>
 
-![imagen](imagenes/s1we31.png)
-
-<br/>
-
 [`Anterior`](../Ejemplo-04/Readme.md) | [`Siguiente`](../Readme.md)
 
 </div>
