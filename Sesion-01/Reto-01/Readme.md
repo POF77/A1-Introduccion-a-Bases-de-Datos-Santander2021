@@ -19,9 +19,9 @@ Usando la base de datos `tienda`, muestra la descripción de las tablas `articul
 | Tipo   | Descripción |
 |---|---|
 | int |Número entero|
-|---|---|
 | varchar |Valor de caracteres. Número indica la longitud máxima |
-|---|---|
+| double |Valor numérico con decimales  |
+| timestamp |Valor que corresponde a un momento en el tiempo |
 
 <br/>
 
