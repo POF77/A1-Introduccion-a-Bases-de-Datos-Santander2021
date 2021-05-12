@@ -16,6 +16,12 @@
 
 Usando la base de datos `tienda`, escribe una consulta que permita obtener el top 5 de puestos por salarios.
 
+*Código*<br/>
+SELECT *<br/>
+FROM puesto<br/>
+ORDER BY salario DESC<br/>
+LIMIT 5;<br/>
+
 <br/>
 
 [`Anterior`](../Ejemplo-04/Readme.md) | [`Siguiente`](../Readme.md)
