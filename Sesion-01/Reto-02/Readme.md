@@ -24,8 +24,7 @@ Usando la base de datos `tienda`, escribe consultas que permitan responder las s
 <br/>
 *Respuesta* <br/>
 1- Norrie y Maxy <br/>
-2-<br/>
-![imagen](https://user-images.githubusercontent.com/60225087/117911218-04826580-b2a3-11eb-8f00-53a4b90b2426.png)
+2-<br/> ![imagen](https://user-images.githubusercontent.com/60225087/117911622-ba4db400-b2a3-11eb-8812-d141a188b2ec.png)
 <br/>
 3-<br/> ![imagen](https://user-images.githubusercontent.com/60225087/117906973-8ec6cb80-b29b-11eb-9223-adb997e3d041.png)
 <br/>
@@ -33,6 +32,8 @@ Usando la base de datos `tienda`, escribe consultas que permitan responder las s
 <br/>
 
 <br/>
+![imagen](https://user-images.githubusercontent.com/60225087/117911756-eec17000-b2a3-11eb-9f32-ab07816bacbf.png)
+
 
 *Código*
 SELECT *<br/>
