@@ -19,6 +19,9 @@ Usando la base de datos `tienda`, muestra la descripción de las tablas `articul
 | Tipo   | Descripción |
 |---|---|
 | int |Número entero|
+|---|---|
+| varchar |Valor de caracteres. Número indica la longitud máxima |
+|---|---|
 
 <br/>
 
