@@ -1,4 +1,4 @@
-[`Introducción a Bases de Datos`](../../README.md) > [`Sesión 01`](../Readme.md) > `Reto 1`
+[`Introducción a Bases de Datos`](../../README.md) > [`Sesión 01`](../Readme.md) > `Reto 1 - resuelto`
 	
 ## Reto 1: Estructura de una tabla
 
