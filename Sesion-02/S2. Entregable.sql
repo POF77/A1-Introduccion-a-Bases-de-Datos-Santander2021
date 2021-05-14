@@ -20,16 +20,13 @@ WHERE nombre LIKE "%-%";
 -- ¿Cuál es el promedio de salario de los puestos?
 SELECT round(avg(salario),2) promedio_salarios
 FROM puesto;
-
 -- ¿Cuántos artículos incluyen la palabra Pasta en su nombre?
 SELECT count(*) Arts_pasta
 FROM articulo
 WHERE nombre LIKE "%Pasta%";
-
 -- ¿Cuál es el salario mínimo y máximo?
 SELECT min(salario) "salario_min", max(salario) "salario_max"
 FROM puesto;
-
 -- ¿Cuál es la suma del salario de los últimos cinco puestos agregados?
 SELECT round(sum(salario),2) suma
 FROM (SELECT * FROM puesto ORDER BY id_puesto DESC LIMIT 5) AS subconjuto;
@@ -39,17 +36,14 @@ FROM (SELECT * FROM puesto ORDER BY id_puesto DESC LIMIT 5) AS subconjuto;
 FROM puesto
 GROUP BY nombre
 ORDER BY cuenta DESC;
-
 -- ¿Cuánto dinero se paga en total por puesto?
 SELECT nombre, round(sum(salario),2) pago_total
 FROM puesto
 GROUP BY nombre;
-
 -- ¿Cuál es el número total de ventas por vendedor?
 SELECT id_empleado, count(*)
 FROM venta
 GROUP BY id_empleado;
-
 -- ¿Cuál es el número total de ventas por artículo?
 SELECT id_articulo, count(*)
 FROM venta
@@ -62,12 +56,10 @@ FROM empleado
 WHERE id_puesto IN (SELECT id_puesto
 FROM puesto
 WHERE salario > 10000);
-
 -- ¿Cuál es la cantidad mínima y máxima de ventas de cada empleado por clave?
 SELECT * FROM venta ORDER BY id_empleado;
 SELECT id_empelado, min(total_ventas), max(total_ventas)
 FROM (SELECT calve, id_empleado, count(*) total_ventas FROM ventas GROUP BY clave);
-
 -- ¿Cuál es el nombre del puesto de cada empleado?
 SELECT nombre, (SELECT nombre FROM puesto WHERE id_puesto = empleado.id_puesto)
 FROM empleado;
