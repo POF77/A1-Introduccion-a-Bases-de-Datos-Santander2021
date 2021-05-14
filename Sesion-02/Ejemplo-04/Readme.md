@@ -45,7 +45,7 @@
    
    *Usando `FROM`*
    
-   Ahora queremos saber cuál es la menor y mayor cantidad de ventas de un artículo entre todas las ventas (clave). Nuevamente, volvemos a descomponer el problema. Primero, obtengamos la cantidad de piezas por venta de un artículo. 
+   Ahora queremos saber cuál es la menor y mayor cantidad de ventas de un artículo por venta o ticket (clave). Nuevamente, volvemos a descomponer el problema. Primero, obtengamos la cantidad de piezas por venta de un artículo. 
 
    ```sql
    SELECT clave, id_articulo, count(*) AS cantidad
