@@ -18,7 +18,7 @@
 
 2. Una subconsulta es una consulta dentro de otra. Éstas pueden aparecer en la cláusula `WHERE`, `FROM` o `SELECT`. Veamos algunos ejemplos.
 
-   *Usando `WHERE`*
+   *Usando `WHERE`*. Aplica cuando se quiere obtener ciertos valores para aplicar un filtro.
    
    Queremos los empleados cuyo puesto es `Junior Executive`. Para realizar la subconsulta, descompongamos el problema en partes. Primero necesitamos saber el identificador de los puestos con ese nombre.
 
