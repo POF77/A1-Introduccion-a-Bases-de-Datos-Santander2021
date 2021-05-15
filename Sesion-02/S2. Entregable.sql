@@ -56,10 +56,15 @@ FROM empleado
 WHERE id_puesto IN (SELECT id_puesto
 FROM puesto
 WHERE salario > 10000);
+
 -- ¿Cuál es la cantidad mínima y máxima de ventas de cada empleado por clave?
-SELECT * FROM venta ORDER BY id_empleado;
-SELECT id_empelado, min(total_ventas), max(total_ventas)
-FROM (SELECT calve, id_empleado, count(*) total_ventas FROM ventas GROUP BY clave);
+SELECT id_empleado, min(ventasXempleado), max(ventasXempleado)
+FROM (
+  SELECT id_empleado, clave, count(id_empleado) ventasXempleado
+  FROM venta
+  GROUP BY id_empleado, clave) AS a
+GROUP BY id_empleado;
+
 -- ¿Cuál es el nombre del puesto de cada empleado?
 SELECT nombre, (SELECT nombre FROM puesto WHERE id_puesto = empleado.id_puesto)
 FROM empleado;
