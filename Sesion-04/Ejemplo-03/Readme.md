@@ -34,7 +34,7 @@
    id,genero,edad,ocup,cp
    ```
 
-   Ahora reemplaza todos los símbolos, `::` por `,`. El archivo final debe verse así:
+   Ahora reemplaza todos los símbolos, `::` por `,`. Esto se puede hacer con block de notas. El archivo final debe verse así:
 
    ```
    id,genero,edad,ocup,cp
