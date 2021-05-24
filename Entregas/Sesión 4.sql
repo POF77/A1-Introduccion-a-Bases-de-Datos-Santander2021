@@ -33,3 +33,34 @@ FROM ratings;
 DESCRIBE ratings;
 
 INSERT INTO ratings(id_user,id_movie,rating,time_stamp) VALUES (10,1000,5,99965857);
+
+-- Código JSON --------------------------------------------------------------------------------------------------------------
+/*
+Agregar nueva observacion (documento)
+"_id": {
+        "$oid": "60abfdf2ba1e7d3408939be1"
+    },
+    "id_movie": "4000",
+    "title": "Avengers: Endgame (2019)",
+    "gender": "Fantasy|Sci-Fi"
+}
+
+Agregar observaciones de otra base de datos vinculadas a una obervación
+{
+    "_id": {
+        "$oid": "60abfdf2ba1e7d3408939be2"
+    },
+    "id_movie": "4001",
+    "title": "Glass (2019)",
+    "gender": "Drama|Fantasy",
+    "valoraciones": [{
+        "userid": "1563",
+        id_movie: "4001",
+        rating: "4"
+      }, {
+        "userid": "434",
+        "id_movie": "4001",
+        "rating": "5"
+      }]
+}
+*/
