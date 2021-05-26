@@ -26,9 +26,11 @@ Comencemos la sesión con un pequeño debate. :open_mouth:
    - ¿Cuáles son los principales elementos de una base de datos no relacional (*NoSQL*)?
    -     No siguen estandar de SQL | No necesariamente hay tablas | Si las hay, no tienen una estructura definida
    - ¿Qué ventajas tiene usar una base de datos relacional?
-   -     
+   -     SQL está presente en muchos gestores (clientes)
    - ¿Qué ventajas tiene usar una base de datos no relacional?
+   -     Es más flexible ya que no tienen que cuadrar las tablas | No se debe tener un diseño previo
    - ¿Cuál es el mejor tipo de base de datos entonces?
+   -     Depende
 
 2. Comenta tus respuestas con el grupo. 
 
