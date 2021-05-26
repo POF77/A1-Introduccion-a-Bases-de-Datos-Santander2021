@@ -48,6 +48,8 @@ En __MongoDB__ los datos son almacenados en *colecciones* que incluyen documento
 
 Para realizar consultas u otras operaciones en __MongoDB__ debe usarse este formato a manera de lenguaje (no es un lenguaje por sí mismo, pero lo usaremos como si lo fuera). En particular, para realizar proyecciones, se usa este formato. Debe indicarse el campo a proyectar y colocar un uno si queremos mostrarlo o cero en caso contrario.
 
+_Proyección_ -> resultado que se obtiene de realizar una búsqueda
+
 - `{campo: 0}`
 - `{campo: 1}`
 
