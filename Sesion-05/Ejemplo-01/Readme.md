@@ -33,6 +33,8 @@
 
    ![imagen](imagenes/s4e23.png)
    
+El campo "_id" es un objeto JSON que a su vez se le adjunta a otro objeto JSON.
+   
 4. Por defecto, la interfaz de __MongoDB Compass__ muestra todos los campos de todos los documentos, esto es equivalente a ejecutar la siguiente instrucción de __SQL__:
 
    ```sql
@@ -52,8 +54,6 @@
    
    ![imagen](imagenes/s4e24.png)
    
-El campo "_id" es un objeto JSON que a su vez se le adjunta a otro objeto JSON. 
-
 **¡Felicidades! Haz realizado tu primera consulta en una base de datos con MongoDB**
 
 [`Anterior`](../Readme.md) | [`Siguiente`](../Reto-01/Readme.md)
