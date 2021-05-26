@@ -49,7 +49,10 @@
    ```json
    {year: {$gte: 2000}}
    ```
-   
+  
+  gte -> Greate or Equal
+  lte -> Leatter or Equal
+  
    *Observación:* Las operaciones de __MongoDB__ siempre aparecen precedidas del símbolo `$`.
    
    ![imagen](imagenes/s4e32.png)
