@@ -19,7 +19,7 @@ Las consultas se realizarán sobre la base `sample_training`.
 Todas las consultas que realices deberás mantenerlas dentro del MongoDB Compass. Para hacer esto, da clic en el botón con los puntos `···` y en `Toogle Query History`. Busca la última consulta y agrégala a favoritos presionando el ícono con la estrella :star:.
 
 1. Obtén los datos de contacto de cada compañía.
-	{
+-- 	{
  project: {
   email_address: 1,
   phone_number: 1
