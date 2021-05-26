@@ -26,7 +26,7 @@
    WHERE year = 1993;
    ```
   
-   *Consulta en MongoDB usando JSON*
+   *Consulta en MongoDB usando JSON en el campo FILTER*
   
    ```json
    {year: 1993}
