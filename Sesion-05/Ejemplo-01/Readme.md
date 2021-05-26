@@ -51,6 +51,8 @@
    Para mostrar la proyección, damos clic en el botón `FIND`.
    
    ![imagen](imagenes/s4e24.png)
+   
+El campo "_id" es un objeto JSON que a su vez se le adjunta a otro objeto JSON. 
 
 **¡Felicidades! Haz realizado tu primera consulta en una base de datos con MongoDB**
 
