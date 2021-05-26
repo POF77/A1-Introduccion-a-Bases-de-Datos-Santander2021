@@ -52,6 +52,7 @@ _Proyección_ -> resultado que se obtiene de realizar una búsqueda. En este cas
 
 - `{campo1: 0}` -> Retiera el campo "campo1" de la proyección
 - `{campo1: 1}` -> Solo muestra el campo "campo1"
+- `{campo1: 1, campo2: 1}` -> Muestra el campo "campo1" y "campos2" exclusivamente
 
 - [**`EJEMPLO 1`**](Ejemplo-01/Readme.md)
 - [**`RETO 1`**](Reto-01/Readme.md)	
