@@ -22,6 +22,7 @@ Comencemos la sesión con un pequeño debate. :open_mouth:
 1. Para comenzar contesta las siguientes preguntas:
 
    - ¿Cuáles son los principales elementos de una base de datos relacional?
+   -- Registros, renglones, tablas, relaciones entre tablas
    - ¿Cuáles son los principales elementos de una base de datos no relacional (*NoSQL*)?
    - ¿Qué ventajas tiene usar una base de datos relacional?
    - ¿Qué ventajas tiene usar una base de datos no relacional?
