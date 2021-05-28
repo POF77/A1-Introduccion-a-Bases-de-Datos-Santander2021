@@ -26,7 +26,10 @@ Por ejemplo, queremos saber cuál es la propiedad con mayor número de servicios
 
    Con `addFields` podemos agregar campos como resultado de aplicar funciones a otros campos de la colección. De esta forma agregaremos el tamaño del arreglo como columna.
    
-   Llamaremos a este campo `servicios` y para calcularlo usaremos la función `$size`. 
+   Llamaremos a este campo `servicios` y para calcularlo usaremos la función `$size`. A "amenities" se le agrega "$" para indicar que utilice el campo amenities.
+   
+   servicios -> nuevo nombre de la variable
+   {$size: "$amenities"} -> características de la nueva variable
    
    ```json
    {
