@@ -17,6 +17,7 @@
 Usando la base de datos `sample_airbnblistingsAndReviews`, realiza los siguientes filtros:
 
 - Propiedades que no permitan fiestas.
+-- 	´{hose_rules: /NO PARTIES/i}´
 - Propiedades que admitan mascotas.
 - Propiedades que no permitan fumadores.
 - Propiedades que no permitan fiestas ni fumadores.
