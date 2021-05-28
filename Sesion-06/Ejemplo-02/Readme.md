@@ -74,6 +74,7 @@
    ```json
    {price: {$lte: 100}, "address.country_code": "ES", "review_scores.review_scores_rating":{$gte: 50}, amenities: {$in:["Internet", "Wifi"]}, amenities:{$in:["Elevator"]}}
    ```
+   ```{price: {$lte: 100}, "address.country": /spain/i, "review_scores.review_scores_rating": {$gte: 50} ,amenities: {$in: [/internet|wifi/i]}, amenities: {$in: [/elevator/i]}}```
 
    ![imagen](imagenes/s5e23.png)
 
