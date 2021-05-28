@@ -16,11 +16,10 @@
 
 Usando la base de datos `sample_airbnblistingsAndReviews`, realiza los siguientes filtros:
 
-- Propiedades que no permitan fiestas.
--- 	{house_rules: /PETS ALLOWED/i}
-- Propiedades que admitan mascotas.
-- Propiedades que no permitan fumadores.
-- Propiedades que no permitan fiestas ni fumadores.
+- Propiedades que no permitan fiestas.              -> {house_rules: /PETS ALLOWED/i}
+- Propiedades que admitan mascotas.                 -> {house_rules: /pets allowed|pets wellcome/i}
+- Propiedades que no permitan fumadores.            -> {house_rules: /NO SMOKING/i}
+- Propiedades que no permitan fiestas ni fumadores. -> {house_rules: /no smoking|no parties/i}
 
 <br/>
 
